@@ -17,8 +17,6 @@
 
 
 
-
-
 This Python script removes the background from an uploaded image, specifically focusing on accurately isolating a person.
 
 ## Installation
